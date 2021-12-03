@@ -1,3 +1,5 @@
+import numpy as np
+
 def lines(path):
     """
     Return a list of lines from the file `path`

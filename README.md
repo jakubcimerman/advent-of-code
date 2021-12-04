@@ -39,5 +39,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>00:40:08</td>
       <td>3997</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>00:53:18</td>
+      <td>5349</td>
+      <td>01:02:06</td>
+      <td>4553</td>
+    </tr>
   </tbody>
 </table>

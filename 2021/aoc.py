@@ -16,6 +16,13 @@ def file(path: str) -> str:
         return f.read()
 
 
+def load_block(path):
+    """
+    Return a list of blocks from file separated by empty line
+    """
+    return file(path).split("\n\n")
+
+
 def filerstrip(path: str) -> str:
     """
     Return rstripped file contents of file at `path`

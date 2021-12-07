@@ -60,5 +60,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>01:28:39</td>
       <td>8915</td>
     </tr>
+    <tr>
+      <td>7</td>
+      <td>00:06:58</td>
+      <td>?</td>
+      <td>00:09:21</td>
+      <td>?</td>
+    </tr>
   </tbody>
 </table>

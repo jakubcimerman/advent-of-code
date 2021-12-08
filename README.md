@@ -63,9 +63,16 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
     <tr>
       <td>7</td>
       <td>00:06:58</td>
-      <td>?</td>
+      <td>2734</td>
       <td>00:09:21</td>
-      <td>?</td>
+      <td>1538</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>00:10:00</td>
+      <td>1902</td>
+      <td>00:35:16</td>
+      <td>634</td>
     </tr>
   </tbody>
 </table>

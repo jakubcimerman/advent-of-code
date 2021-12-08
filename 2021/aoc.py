@@ -39,6 +39,14 @@ def load_map_ll(path):
     return list(map(lambda x: list(x.rstrip()), lines))
 
 
+def load_ints_split(path, splitchar):
+    """
+    Return a list of ints loaded from file at `path` delimited by splitchar.
+    """
+    line = file(path)
+    return [int(i) for i in line.split(splitchar)]
+
+
 def load_strings_split(path, splitchar):
     """
     Return a list of strings loaded from file at `path` delimited by splitchar.

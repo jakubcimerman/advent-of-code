@@ -1,4 +1,6 @@
 import numpy as np
+from aocd import submit
+
 
 def lines(path):
     """
@@ -80,3 +82,18 @@ def convert_base(num, from_base, to_base):
         dec //= to_base
     return result[::-1]
 
+
+def test_and_submit(f, day, exp, part):
+    """
+    Run the code for test input, compare it with expected result and if correct, submit
+    """
+    FILENAME = f"{day}.txt"
+    FILENAME_TEST = f"{day}_test.txt"
+    obtained = f(FILENAME_TEST)
+    print(obtained, exp)
+    if (str(obtained).rstrip() != str(exp).rstrip()):
+        print("Value obtained from test input is not equal to the expected value")
+        return
+    result = f(FILENAME)
+    print("Submitting result: ", result)
+    submit(result, part=part, day=day, year=2021)

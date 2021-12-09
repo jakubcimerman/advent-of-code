@@ -74,5 +74,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>00:35:16</td>
       <td>634</td>
     </tr>
+    <tr>
+      <td>9</td>
+      <td>00:11:08</td>
+      <td>2020</td>
+      <td>00:41:50</td>
+      <td>3172</td>
+    </tr>
   </tbody>
 </table>

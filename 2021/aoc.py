@@ -97,3 +97,20 @@ def test_and_submit(f, day, exp, part):
     result = f(FILENAME)
     print("Submitting result: ", result)
     submit(result, part=part, day=day, year=2021)
+
+
+def add_array_border(data, border):
+    """
+    Add line and column of custom chars/ints/strings to the all four borders of 2D array
+    Thus when checking for neighbouring elements in the all directions, one can avoid writing lots of ifs
+    """
+    result = []
+    for i in range(len(data)+2):
+        line = []
+        for j in range(len(data[0])+2):
+            if (j == 0 or i == 0 or i == len(data)+1 or j == len(data[0])+1):
+                line.append(border)
+            else:
+                line.append(data[i-1][j-1])
+        result.append(line)
+    return result

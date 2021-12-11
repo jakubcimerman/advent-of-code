@@ -88,5 +88,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>00:21:40</td>
       <td>2086</td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>00:17:23</td>
+      <td>939</td>
+      <td>00:20:19</td>
+      <td>935</td>
+    </tr>
   </tbody>
 </table>

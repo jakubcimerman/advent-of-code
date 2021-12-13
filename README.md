@@ -102,5 +102,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>01:13:25</td>
       <td>4100</td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>00:22:16</td>
+      <td>2130</td>
+      <td>00:32:48</td>
+      <td>2376</td>
+    </tr>
   </tbody>
 </table>

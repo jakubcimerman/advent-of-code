@@ -116,5 +116,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>00:39:17</td>
       <td>1517</td>
     </tr>
+    <tr>
+      <td>15</td>
+      <td>00:34:26</td>
+      <td>2347</td>
+      <td>01:46:14</td>
+      <td>3529</td>
+    </tr>
   </tbody>
 </table>

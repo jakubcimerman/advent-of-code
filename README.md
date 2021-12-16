@@ -123,5 +123,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>01:46:14</td>
       <td>3529</td>
     </tr>
+    <tr>
+      <td>16</td>
+      <td>00:38:53</td>
+      <td>777</td>
+      <td>01:15:07</td>
+      <td>1617</td>
+    </tr>
   </tbody>
 </table>

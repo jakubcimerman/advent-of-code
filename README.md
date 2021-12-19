@@ -144,5 +144,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>02:18:30</td>
       <td>1683</td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>02:55:41</td>
+      <td>1332</td>
+      <td>03:04:40</td>
+      <td>1238</td>
+    </tr>
   </tbody>
 </table>

@@ -154,7 +154,7 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
     <tr>
       <td>20</td>
       <td>00:24:03</td>
-      <td>**338**</td>
+      <td><strong>338</strong></td>
       <td>00:35:40</td>
       <td>735</td>
     </tr>

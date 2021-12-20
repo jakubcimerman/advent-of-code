@@ -71,7 +71,7 @@ def convert_base(num, from_base, to_base):
     """
     dec = 0
     for i in range(len(num)):
-        dec += pow(from_base,length-i-1)*int(num[i])
+        dec += pow(from_base,len(num)-i-1)*int(num[i])
     if dec == 0:
         return "0"
     if to_base == 10:

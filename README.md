@@ -151,5 +151,12 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>03:04:40</td>
       <td>1238</td>
     </tr>
+    <tr>
+      <td>20</td>
+      <td>00:24:03</td>
+      <td>**338**</td>
+      <td>00:35:40</td>
+      <td>735</td>
+    </tr>
   </tbody>
 </table>

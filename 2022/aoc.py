@@ -96,7 +96,7 @@ def test_and_submit(f, day, exp, part):
         return
     result = f(FILENAME)
     print("Submitting result: ", result)
-    submit(result, part=part, day=day, year=2021)
+    submit(result, part=part, day=day, year=2022)
 
 
 def add_array_border(data, border):

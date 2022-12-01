@@ -20,10 +20,10 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
   <tbody>
     <tr>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>02:39:14</td>
+      <td>22302</td>
+      <td>02:41:17</td>
+      <td>20994</td>
     </tr>
   </tbody>
 </table>

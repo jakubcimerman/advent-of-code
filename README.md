@@ -25,6 +25,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>02:41:17</td>
       <td>20994</td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>04:26:37</td>
+      <td>44899</td>
+      <td>04:29:49</td>
+      <td>40167</td>
+    </tr>
   </tbody>
 </table>
 

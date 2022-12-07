@@ -55,7 +55,7 @@ def load_strings_split(path, splitchar):
     """
     with open(path) as f:
         lines = f.readlines()
-    return list(map(lambda x: x.split(splitchar), lines))
+    return list(map(lambda x: x.rstrip().split(splitchar), lines))
 
 
 def load_numpy_data(path):

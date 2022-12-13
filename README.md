@@ -102,6 +102,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>02:13:12</td>
       <td>7064</td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>02:03:18</td>
+      <td>7131</td>
+      <td>02:14:06</td>
+      <td>6638</td>
+    </tr>
   </tbody>
 </table>
 

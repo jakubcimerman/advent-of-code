@@ -144,6 +144,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>04:01:14</td>
       <td>4985</td>
     </tr>
+    <tr>
+      <td>21</td>
+      <td>16:38:13</td>
+      <td>16303</td>
+      <td>17:17:02</td>
+      <td>13440</td>
+    </tr>
   </tbody>
 </table>
 

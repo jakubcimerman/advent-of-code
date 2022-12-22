@@ -151,6 +151,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>17:17:02</td>
       <td>13440</td>
     </tr>
+    <tr>
+      <td>22</td>
+      <td>15:49:18</td>
+      <td>11380</td>
+      <td>17:11:49</td>
+      <td>5974</td>
+    </tr>
   </tbody>
 </table>
 

@@ -158,6 +158,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>17:11:49</td>
       <td>5974</td>
     </tr>
+    <tr>
+      <td>23</td>
+      <td>06:46:58</td>
+      <td>6455</td>
+      <td>07:11:25</td>
+      <td>6393</td>
+    </tr>
   </tbody>
 </table>
 

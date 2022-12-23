@@ -145,6 +145,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>4985</td>
     </tr>
     <tr>
+      <td>20</td>
+      <td>>24h</td>
+      <td>16834</td>
+      <td>>24h</td>
+      <td>15920</td>
+    </tr>
+    <tr>
       <td>21</td>
       <td>16:38:13</td>
       <td>16303</td>

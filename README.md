@@ -145,6 +145,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>4985</td>
     </tr>
     <tr>
+      <td>19</td>
+      <td>>24h</td>
+      <td>12484</td>
+      <td>>24h</td>
+      <td>11870</td>
+    </tr>
+    <tr>
       <td>20</td>
       <td>>24h</td>
       <td>16834</td>
@@ -171,6 +178,13 @@ My solutions to advent programming puzzles [Advent of Code](https://adventofcode
       <td>6455</td>
       <td>07:11:25</td>
       <td>6393</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>07:06:06</td>
+      <td>5071</td>
+      <td>07:48:26</td>
+      <td>5000</td>
     </tr>
   </tbody>
 </table>

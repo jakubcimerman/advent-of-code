@@ -1,6 +1,33 @@
 # Advent of Code
 My solutions to advent programming puzzles [Advent of Code](https://adventofcode.com/).
 
+# Personal Stats 2024
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan=2>Part 1</th>
+      <th colspan=2>Part 2</th>
+    </tr>
+    <tr>
+      <th>Day</th>
+      <th>Time</th>
+      <th>Rank</th>
+      <th>Time</th>
+      <th>Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15:41:10</td>
+      <td>85406</td>
+      <td>15:45:17</td>
+      <td>79523</td>
+    </tr>
+  </tbody>
+</table>
+
 # Personal Stats 2022
 <table>
   <thead>
